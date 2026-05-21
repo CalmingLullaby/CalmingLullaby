@@ -1,4 +1,3 @@
-https://litter.catbox.moe/iv8nb9h425ert16s.jpg
 
 <!--
 **CalmingLullaby/CalmingLullaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
